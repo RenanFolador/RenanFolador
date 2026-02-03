@@ -1,23 +1,32 @@
-## Bem-vindo(a) ao meu perfil 😁
+👋 Olá, eu sou o Renan Folador
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-end+J%C3%BAnior;JavaScript+%7C+HTML+%7C+CSS;Em+busca+da+primeira+oportunidade+%F0%9F%9A%80" /> </p>
+🎯 Objetivo profissional
 
- <div>
-   <a href="https://github.com/RenanFolador">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFolador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFolador&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+Sou Desenvolvedor Front-end Júnior, focado em construir interfaces web funcionais, organizadas e com boa experiência de usuário.
+Busco minha primeira oportunidade profissional na área, onde eu possa aprender, evoluir e contribuir com o time.
 
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Redes Sociais
- 
-<div> 
-  <a href="https://instagram.com/Rfolador" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/RenanFolador" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+💡 Sobre mim
+
+💻 Estudante e praticante de desenvolvimento web
+
+📚 Aprendizado contínuo e foco em fundamentos
+
+🧠 Interesse em código limpo, boas práticas e acessibilidade
+
+🤝 Aberto a feedbacks e trabalho em equipe
+
+🛠️ Tecnologias
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/> </p>
+
+Conhecimentos práticos em:
+
+JavaScript (ES6+)
+
+HTML semântico
+
+CSS (Flexbox, responsividade)
+
+Git e GitHub (versionamento)
+
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFolador&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFolador&layout=compact&langs_count=6&theme=tokyonight"/> </p>
